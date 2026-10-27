@@ -1,6 +1,6 @@
 # How to batch stabilize clips in Adobe Premiere Pro
 
-[Overview](../README-batch-video-stabilizer.md) · [Batch settings](settings.md) ·
+[Overview](./) · [Batch settings](settings.md) ·
 [Warp settings](warp-stabilizer-settings.md) · [Troubleshooting](troubleshooting.md)
 
 Use [Batch Video Stabilizer](https://vakago-tools.com/batch-video-stabilizer/) to queue multiple

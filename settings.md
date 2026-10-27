@@ -1,6 +1,6 @@
 # Batch Video Stabilizer: batch processing settings
 
-[Overview](../README-batch-video-stabilizer.md) · [Warp settings](warp-stabilizer-settings.md) ·
+[Overview](./) · [Warp settings](warp-stabilizer-settings.md) ·
 [Workflow](workflow.md) · [Troubleshooting](troubleshooting.md)
 
 Use these settings to control how [Batch Video Stabilizer for Adobe Premiere Pro](https://vakago-tools.com/batch-video-stabilizer/)

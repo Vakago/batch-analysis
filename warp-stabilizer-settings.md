@@ -1,6 +1,6 @@
 # Warp Stabilizer settings for batch video stabilization
 
-[Overview](../README-batch-video-stabilizer.md) · [Batch settings](settings.md) ·
+[Overview](./) · [Batch settings](settings.md) ·
 [Workflow](workflow.md) · [Troubleshooting](troubleshooting.md)
 
 [Batch Video Stabilizer by Vakago Tools](https://vakago-tools.com/batch-video-stabilizer/)

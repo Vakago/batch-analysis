@@ -1,6 +1,6 @@
 # Batch Video Stabilizer troubleshooting and FAQ
 
-[Overview](../README-batch-video-stabilizer.md) · [Batch settings](settings.md) ·
+[Overview](./) · [Batch settings](settings.md) ·
 [Warp settings](warp-stabilizer-settings.md) · [Workflow](workflow.md)
 
 Start with a small queue and **Max parallel analyses** set to **1**. Change one setting at

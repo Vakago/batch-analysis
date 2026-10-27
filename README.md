@@ -24,10 +24,10 @@ for product details and download links.
 
 ## User guides
 
-- [Batch processing settings](batch-video-stabilizer-docs/settings.md): reanalysis, parallel processing, retries and saving.
-- [Warp Stabilizer settings](batch-video-stabilizer-docs/warp-stabilizer-settings.md): custom values, smoothness, methods and framing.
-- [Batch stabilization workflow](batch-video-stabilizer-docs/workflow.md): queue clips, run analysis and review results.
-- [Troubleshooting and FAQ](batch-video-stabilizer-docs/troubleshooting.md): skipped clips, slow analysis and reporting problems.
+- [Batch processing settings](settings.md): reanalysis, parallel processing, retries and saving.
+- [Warp Stabilizer settings](warp-stabilizer-settings.md): custom values, smoothness, methods and framing.
+- [Batch stabilization workflow](workflow.md): queue clips, run analysis and review results.
+- [Troubleshooting and FAQ](troubleshooting.md): skipped clips, slow analysis and reporting problems.
 
 These guides describe the UXP controls. The legacy CEP version can have different options and labels.
 
