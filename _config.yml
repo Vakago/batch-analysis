@@ -1,0 +1,5 @@
+title: Batch Video Stabilizer
+description: Warp Stabilizer batch processing for Adobe Premiere Pro
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
